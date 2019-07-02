@@ -15,6 +15,7 @@ def self.all
 end
 
 def artist_name
-  
+
+end
 
 end
