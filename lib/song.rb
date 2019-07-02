@@ -15,7 +15,8 @@ def self.all
 end
 
 def artist_name
-
+  binding.pry
+  song.artist
 end
 
 end
