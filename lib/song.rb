@@ -10,6 +10,9 @@ def initialize(name)
   # binding.pry
 end
 
+def all
+  @@all
+end
 
 
 end
