@@ -15,7 +15,7 @@ def self.all
 end
 
 def artist_name
-  binding.pry
+  # binding.pry
   self.artist == nil ? nil : self.artist.name
 end
 
