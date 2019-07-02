@@ -16,7 +16,11 @@ end
 
 def author_name
   binding.pry
-  self.author
+  if self.author == nil
+    nil
+  else
+    self.author.name
+  end
 
 end
 
