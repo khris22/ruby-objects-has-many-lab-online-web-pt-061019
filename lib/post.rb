@@ -1,3 +1,5 @@
+require 'pry'
+
 class Post
   attr_accessor :title, :author
 
@@ -13,6 +15,8 @@ def self.all
 end
 
 def author_name
+  
+end
   
 
 end
