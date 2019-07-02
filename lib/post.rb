@@ -21,6 +21,7 @@ def author_name
   else
     self.author.name
   end
+  # self.author == nil ? nil : self.author.name
 
 end
 
